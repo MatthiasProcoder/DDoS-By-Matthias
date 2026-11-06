@@ -16,5 +16,6 @@ clear
 
 cd DDoS-By-Matthias
 
-python3 DDoSLow.py
+python3 DDoSLow.Py
+
 
