@@ -5,4 +5,15 @@ DDoS By Matthias is a Low Range DDoS Tool made for free for paid users 3GbPS DDo
 https://discord.gg/mTwCyVb4DJ
 
 # Usage of the Tool
+
+sudo apt update
+
+sudo apt install python3 -y
+
+python3 --version
+
+clear
+
+cd DDoS-By-Matthias
+
 Python DDoSLow.py
